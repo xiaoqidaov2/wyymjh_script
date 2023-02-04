@@ -1,5 +1,5 @@
 # xiaoqidao_wyclx
-## **介绍** Feature
+## **介绍**
 对于网易一梦江湖挂机脚本的实现<br>
 使用Python进行开发，Gui使用Pyqt来编写，图像识别，模拟点击等使用airtest和pywin32.<br>
 ## **功能** 
