@@ -7,7 +7,7 @@
 1. 自动采集（目前为半成品）
 
 ## **预览图**
-![image]([https://i.328888.xyz/2023/02/03/NfPAy.png](https://github.com/xiaoqidaov2/wyymjh_script/blob/master/%E6%8D%95%E8%8E%B7.PNG?raw=true))
+![image](捕获.PNG)
 
 ## **注意事项**
 1. 确保应用以“管理员身份运行”，否则应用将无法嵌入到脚本界面中。
